@@ -2,6 +2,7 @@
 
 This repository contains a comprehensive project for managing products in a database. The project provides a set of features to perform CRUD (Create, Read, Update, Delete) operations along with advanced querying functionalities. Built using Hibernate and MySQL, the system ensures robust handling of database operations and user-friendly responses.
 
+
 ## Features
 
 ### 1. Add Product to Database  
